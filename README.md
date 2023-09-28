@@ -1,4 +1,4 @@
 ﻿# qoutes-generator
 
-Im just bored and make this for fun. 
+I'm just bored and made this for fun.
 Link : qoutiful.netlify.app
